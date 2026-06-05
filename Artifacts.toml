@@ -1,174 +1,174 @@
 [[MQLib]]
 arch = "aarch64"
-git-tree-sha1 = "72c206634c278c2bd629b3ef7381c9e67c31d10c"
+git-tree-sha1 = "57a5f1729c6906e8c337eca3ddf9dba15eeba46c"
 os = "macos"
 
     [[MQLib.download]]
-    sha256 = "17899613d0569cbe6af4dcd1346461b0c0f2add1f0f92679ef73c776728e794a"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "5e84127da84a9259ce0f6af9a187db179e539de63e6ac50a2ceb29dba055b8ae"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.aarch64-apple-darwin.tar.gz"
 [[MQLib]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d6a8420719fe138ccd342b2326f8de8d822882a7"
+git-tree-sha1 = "2b4833e7121fc5c7e567486d7011c014da7c279d"
 libc = "glibc"
 os = "linux"
 
     [[MQLib.download]]
-    sha256 = "99236be7c27323c86f00da3f71f5495539bb9dd4b09c773fe1602e746bf776d2"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "2f960e92ace81c42d3e6723ad4e824d9f452127d31a41b8e25025aa8eac3e505"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[MQLib]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a837887436ff56c6f651134190f4762a7b0d2cdc"
+git-tree-sha1 = "4491b1cffd66eaf6f61d40b0c36cde593e1e12e7"
 libc = "musl"
 os = "linux"
 
     [[MQLib.download]]
-    sha256 = "b600ac4db365c7bcc12e9fd5aff75b0f6dc15e1880ddaee96f20eb6bc0ddb495"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "983a487e1be902bd1d8aab28a85c6d6a543c274b5d31f9d863d943c2b85596f8"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.aarch64-linux-musl-cxx11.tar.gz"
 [[MQLib]]
 arch = "aarch64"
-git-tree-sha1 = "53e5981d1f1b814d0f4501e4e43d121799b049e6"
+git-tree-sha1 = "6783f242584ff59d03d477558964ecc3359b61b4"
 os = "freebsd"
 
     [[MQLib.download]]
-    sha256 = "09f57c84dc16cd3840685b9d81d6c7826377f2009282793c9c7f2fe1e6988698"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "8b8adada931fba9f8ab4dfbc1f8af5df540697e53efffbc3441333e5c419aff8"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.aarch64-unknown-freebsd.tar.gz"
 [[MQLib]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "219a74ad196620fb6354003f6dbb1017f88a380a"
+git-tree-sha1 = "18592648ddb8cc928720ebb2009c361600e9670f"
 libc = "glibc"
 os = "linux"
 
     [[MQLib.download]]
-    sha256 = "46f546c79b8675aaa31dbd5594705333d94c076a741a3d1dcb59197055baf019"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "1765dc7396b687d89cbb5a8d90095ff84800cf38960dcb0a516026a9e48d8494"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[MQLib]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2807300302eead73bf3e8a6c9ca11f96e21f221d"
+git-tree-sha1 = "30fb7248f55fbfc8471024fe0208b695348676d8"
 libc = "musl"
 os = "linux"
 
     [[MQLib.download]]
-    sha256 = "00b1174d0083748b1dcd49886eb402810f94c364045c648088a05f8152eaf58f"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "6ca4640582b3ec35c40da399c152d0297a550e892be17ab2a2787e00e43462e1"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[MQLib]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b43908f22d1ddc8a5dba5e4dd3282aec3f745ad3"
+git-tree-sha1 = "5e2b00d6312ca76275617e8fcb63bdd5bec44bcf"
 libc = "glibc"
 os = "linux"
 
     [[MQLib.download]]
-    sha256 = "450a6f73e5d845c24b6bf78b79d82d80009eaf70f682086b57f34e1e93003db5"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "bdb4c2572579be7d3bb84ae796dfa294ccae552979ad09e1a67ddaa51da97598"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[MQLib]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6fc1267473aa861890e2abd4533307acc43aaf09"
+git-tree-sha1 = "73622702f3f54133b7d085cbaa35c4037864b495"
 libc = "musl"
 os = "linux"
 
     [[MQLib.download]]
-    sha256 = "c86e68e36d15ca3889ed8d1a6cc074859b0318987503d0f66e197588ed3da719"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "5997ed2a942b01e23d4c9210378509e61b1f0ec5627abde0c13775ebe407f312"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[MQLib]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "57f04508fc9932b1588ad79d19ed97094ae9cefc"
+git-tree-sha1 = "0109679f345980a9719897c7bd95901966673e5e"
 libc = "glibc"
 os = "linux"
 
     [[MQLib.download]]
-    sha256 = "1f2e760d6adc5afa148cfeb791d111de4b4705b33ec6475e895bdf7b6e75037c"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "2e3199f07a6b2845df043ec1d46a5da527a7c6ffd5f2a6129f01aa46c4e03a79"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.i686-linux-gnu-cxx11.tar.gz"
 [[MQLib]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "054dfa38df4cb751cde9dc3007e8cd8e2bdddb12"
+git-tree-sha1 = "c5fe34281049bd1f8ff3b437ad8677c695638e5c"
 libc = "musl"
 os = "linux"
 
     [[MQLib.download]]
-    sha256 = "a7a917a74457da05577b7d80464860c071b13bb0e0ec04eef2a872218d69c7d4"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "4934ab0e0528565f48bb6e3b0e4fa964483bb440685f1d4d7b07b2e180e6fe01"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.i686-linux-musl-cxx11.tar.gz"
 [[MQLib]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "acc65df12d5b78e0b259d17f4fef631dd04291db"
+git-tree-sha1 = "0ea9629ddef5ede8bf14ec35cc6dcd780deb5559"
 os = "windows"
 
     [[MQLib.download]]
-    sha256 = "f3b90664b1785a2b0d651dfce3b6c691e748b9d0390a31d2611cf06a05aee26c"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "fb30990dfc6581ec47ed91871539d9ea9f7a222d7072fc69c8387cc169b27aa2"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.i686-w64-mingw32-cxx11.tar.gz"
 [[MQLib]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bd82eeeb0640c7a527d12f6cd4c1bedafb251aa6"
+git-tree-sha1 = "ca28309ba3f9eba2e6ed275ac8014debd178ae93"
 libc = "glibc"
 os = "linux"
 
     [[MQLib.download]]
-    sha256 = "c5c4a02af54d604943b40a85caf2166b7839d974c99406cc750e5473931ea3e9"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "7b786ec6d1a0f969f54e2db82180fe52dbda59d554603e630c2be031b92b8ae3"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[MQLib]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6177aabcbdafe0a1ca38e6fe0300f775f54f456e"
+git-tree-sha1 = "5323aea814a571cb37cb88e714ef6e524e691836"
 libc = "glibc"
 os = "linux"
 
     [[MQLib.download]]
-    sha256 = "b9ce8f7c95023241a437b046907eb1b0b51c1eecb1f8d57c46740171246c6773"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "0fdf5bb210d0bd21b8acf4b3dc2e22d9ff9578c0aa05899c47230789acdc7f09"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.riscv64-linux-gnu-cxx11.tar.gz"
 [[MQLib]]
 arch = "x86_64"
-git-tree-sha1 = "d4f7e1c00746b3b02748d432a74d8cd892908787"
+git-tree-sha1 = "5c890c56162a50fe3f4eb17e33bdc87d78affecf"
 os = "macos"
 
     [[MQLib.download]]
-    sha256 = "2a362b66ce23957b83c1654161f41aaa6861294e3a6571b675a19258f3e712cb"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "a93f0a416208e18efae5546e710532a965f9696da76b6e01c0c00b6fcfb9aee0"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.x86_64-apple-darwin.tar.gz"
 [[MQLib]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "36bec407daa698166ac66b589c0bc0d5ea9399ef"
+git-tree-sha1 = "db96ac0a86c22965921940edd879a28eab6d8d70"
 libc = "glibc"
 os = "linux"
 
     [[MQLib.download]]
-    sha256 = "609a7d9d7fc929cb429b5b7925f928ea4e87c3244e1049ef2352891955b53878"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "91ea27e609828d9656b8cf4c21c463b5799dfb9f46740d21d82f9c60bb9b81df"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[MQLib]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f7c18d06eb804c87eb98fa8c3910c2587fe11e1b"
+git-tree-sha1 = "9d59ca1ddf71320b7ccb4f9675ff22099df60661"
 libc = "musl"
 os = "linux"
 
     [[MQLib.download]]
-    sha256 = "440879709a98b56245f4445e62d0f1c5d65c284366e4dc61e70da951d38e6e1a"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "f2f955a6adee7c4b643b922bd2d52a50b800c97830193b1088a40baf649d7b7a"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.x86_64-linux-musl-cxx11.tar.gz"
 [[MQLib]]
 arch = "x86_64"
-git-tree-sha1 = "cefef7411d80ccf20517f7522e6c118da0252d9a"
+git-tree-sha1 = "00a679600fa6fe069c29b4c9bc5bcaf81b19ca1e"
 os = "freebsd"
 
     [[MQLib.download]]
-    sha256 = "a0b816e3bb3e12827464a5e94c430068feda7ccc2e1a494f65d36e66a5cf159e"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "9631f255f3361f63c09f4b29ba7b393f078cc190df47022e3e4ecf5b5fb94699"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.x86_64-unknown-freebsd.tar.gz"
 [[MQLib]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1e8cb1635fb5e320239a1ccd8bbb9d8232b4f4e6"
+git-tree-sha1 = "2864e1abf8789f19a35e053a9ad0c313ceb4f46b"
 os = "windows"
 
     [[MQLib.download]]
-    sha256 = "5684ea633ad2b94bc5e5edc58f1d69b88d8e1ff1d98c6c1554c88f4f0f5119f8"
-    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.1+0/MQLib.v0.1.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "c63c910115cb21facd832d1c7151139cf4462fc187310ec3a01f243225164e0b"
+    url = "https://github.com/JuliaBinaryWrappers/MQLib_jll.jl/releases/download/MQLib-v0.1.2+0/MQLib.v0.1.2.x86_64-w64-mingw32-cxx11.tar.gz"
